@@ -1,0 +1,11 @@
+# Lotus Books — Return and Refund Policy
+
+Shop ID: shop-a
+
+1. Customers may return products within 7 days of delivery.
+2. Products must be unused and in their original condition.
+3. Refunds will be processed within 5 business days after approval.
+4. Damaged or incorrect products are eligible for replacement.
+5. Customers must provide their order ID when requesting a return.
+
+Last updated: October 9, 2026.

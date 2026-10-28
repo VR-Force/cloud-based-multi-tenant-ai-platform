@@ -1,0 +1,31 @@
+# Documents and archives kept locally
+*.[pP][dD][fF]
+*.doc
+*.docx
+*.zip
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Python dependencies and generated files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+
+# Editor and temporary files
+.vscode/
+*.log
+.DS_Store
+Thumbs.db

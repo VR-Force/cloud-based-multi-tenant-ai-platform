@@ -1,0 +1,6 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import { Card } from '@/components/ui/Card';
+import { MessageCircle } from 'lucide-react';
+export function Conversations() {
+    return (_jsxs("div", { className: "space-y-6", children: [_jsxs("div", { children: [_jsx("h1", { className: "text-2xl font-semibold", children: "Conversations" }), _jsx("p", { className: "text-slate-400", children: "Future-ready tenant-scoped conversation history (preview)" })] }), _jsxs(Card, { className: "p-6", children: [_jsxs("div", { className: "flex items-center gap-3 mb-4", children: [_jsx("div", { className: "h-10 w-10 rounded-full bg-blue-500/20 flex items-center justify-center", children: _jsx(MessageCircle, { className: "h-5 w-5 text-blue-400" }) }), _jsxs("div", { children: [_jsx("h2", { className: "text-lg font-medium", children: "Preview" }), _jsx("p", { className: "text-sm text-slate-400", children: "No conversation persistence API currently exists" })] })] }), _jsxs("div", { className: "rounded-xl border border-slate-800 bg-slate-950/30 p-8 text-center", children: [_jsx("p", { className: "text-sm text-slate-400", children: "No conversations to display" }), _jsx("p", { className: "text-xs text-slate-500 mt-1", children: "Future: tenant-scoped history, handoff, audit trails" })] })] })] }));
+}

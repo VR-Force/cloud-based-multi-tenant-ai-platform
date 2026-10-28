@@ -1,0 +1,12 @@
+# Ceylon Gadgets — Warranty and Return Policy
+
+Shop ID: shop-b
+
+1. Electronic products have a 12-month limited warranty.
+2. Customers may request a return within 14 days of delivery.
+3. Warranty claims require a valid order ID.
+4. Physical damage caused by misuse is not covered under warranty.
+5. Defective products may be repaired or replaced after inspection.
+6. Warranty claims are normally processed within 7 business days.
+
+Last updated: October 9, 2026.
